@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Сайт web-студії "WEB-DECO"</title>
-    <!------------------JavaScript------------------------>
+    
     <script src="js/clock1.js"></script>
 	<script type="text/javascript">
 		function send()
@@ -44,8 +44,8 @@
 <body background="images/bg.jpg">
     <table border="1" align="center" cellpadding="10">
     <tr>
-        <td background="images/bg-3.jpg" colspan="2" height="150" align="right" hspace="5">
-            <img src="images/logo.png" alt="" height="140" width="140" align="left">
+        <td background="images/bg3.jpg" colspan="2" height="150" align="right" hspace="5">
+            <img src="images/лого.png" alt="" height="140" width="140" align="left">
             <font color="Maroon">
                 <h1 class="shadowtext">Сайт студії "WEB-DECO"</h1>
             </font>
@@ -117,7 +117,7 @@
         </td>
     </tr>
     <tr>
-        <td background="images/bg-3.jpg" colspan="2" valign="middle" height="90">
+        <td background="images/bg3.jpg" colspan="2" valign="middle" height="90">
             <font size="4">Сайт розробила Майлат Анастасія</font>
         </td>
     </tr>
