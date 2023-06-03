@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Сайт web-студії "WEB-DECO"</title>
-    <!------------------JavaScript------------------------>
+    
     <script src="js/clock1.js"></script>
 	<script type="text/javascript">
 		function send()
@@ -149,7 +149,7 @@
     </tr>
     <tr>
         <td background="images/bg-3.jpg" colspan="2" valign="middle" height="90">
-            <font size="4">Сайт розробив Mykola Bahel</font>
+            <font size="4">Сайт розробила Майлат Анастасія</font>
         </td>
     </tr>
     </table>    
