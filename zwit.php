@@ -8,6 +8,7 @@
     
     <script src="js/clock1.js"></script>
 	<script type="text/javascript">
+	
 		function send()
 		{
 			var valid = true;
