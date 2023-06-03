@@ -27,7 +27,7 @@
 				return false;
 			}
 		}
-	</script>
+	</script> 
     <style>
         .shadowtext{
             text-shadow: 1px 3px 2px white, 0 0 1em red;
